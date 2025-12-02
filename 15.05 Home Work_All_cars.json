@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Nana",
+    "lastname": "Tuka",
+    "password": "112345Qwerty",
+    "URL": "https://qauto.forstudy.space/api/",
+    "expensesData": {
+      "liters": 100,
+      "totalCost": 190
+    },
+    "changeExpensesData": {
+      "liters": 135,
+      "totalCost": 320
+    }
+  },
+  {
+    "name": "Nana",
+    "lastname": "Tuka",
+    "password": "112345Qwerty",
+    "URL": "https://qauto2.forstudy.space/api/",
+    "expensesData": {
+      "liters": 100,
+      "totalCost": 190
+    },
+    "changeExpensesData": {
+      "liters": 135,
+      "totalCost": 320
+    }
+  }
+]
